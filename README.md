@@ -2,7 +2,7 @@
 
 ## 🔍 Overview
 
-This project aims to build a robust and effective Credit Card Fraud Detection system using various machine learning models. The dataset used for this project contains transactions made by credit cards in September 2013 by European cardholders. The dataset is highly unbalanced, with only 0.172% of transactions being fraudulent. The primary goal of this project is to accurately detect fraudulent transactions while minimizing false positives.
+This project aims to build a robust and effective Credit Card Fraud Detection Classification System using various machine learning models. The dataset used for this project contains transactions made by credit cards in September 2013 by European cardholders. The dataset is highly unbalanced, with only 0.172% of transactions being fraudulent. The primary goal of this project is to accurately detect fraudulent transactions while minimizing false positives.
 
 ## 🗂️ Dataset
 
